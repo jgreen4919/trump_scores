@@ -1,0 +1,543 @@
+chamber,member,member_short,party,district,trump_score,trump_margin,predicted_score,trump_plus_minus
+Senate,Cory Gardner,Gardner,R,CO,94.6,-4.9,44.3,50.3
+Senate,Dean Heller,Heller,R,NV,91.1,-2.4,49.1,42
+Senate,Marco Rubio,Rubio,R,FL,96.4,1.2,55.9,40.4
+Senate,Ron Johnson,Johnson,R,WI,92.9,0.8,55.6,37.3
+Senate,Patrick J. Toomey,Toomey,R,PA,90.7,0.7,54.9,35.8
+Senate,Richard Burr,Burr,R,NC,96.4,3.7,60.9,35.5
+Senate,Thom Tillis,Tillis,R,NC,96.4,3.7,61.5,34.9
+Senate,Susan M. Collins,Collins,R,ME,82.1,-3,48,34.1
+Senate,Johnny Isakson,Isakson,R,GA,94.9,5.2,63,31.9
+Senate,David Perdue,Perdue,R,GA,94.5,5.2,63.9,30.6
+Senate,Jeff Flake,Flake,R,AZ,90.6,3.5,60.5,30.1
+Senate,John Cornyn,Cornyn,R,TX,96.4,9,71.6,24.9
+Senate,Rob Portman,Portman,R,OH,92.9,8.1,70.1,22.8
+Senate,John McCain,McCain,R,AZ,82.7,3.5,60.9,21.8
+Senate,Ted Cruz,Cruz,R,TX,92.9,9,71.6,21.3
+Senate,Chuck Grassley,Grassley,R,IA,92.9,9.4,72.2,20.6
+Senate,Joni Ernst,Ernst,R,IA,91.1,9.4,72.2,18.8
+Senate,Dan Sullivan,Sullivan,R,AK,96.2,14.7,79.8,16.4
+Senate,Tim Scott,Scott,R,SC,94.6,14.3,79.3,15.3
+Senate,Thad Cochran,Cochran,R,MS,96.4,17.8,83.4,13
+Senate,Roger F. Wicker,Wicker,R,MS,96.4,17.8,83.4,13
+Senate,Orrin G. Hatch,Hatch,R,UT,96.4,18.1,83.6,12.8
+Senate,Roy Blunt,Blunt,R,MO,96.4,18.6,84.2,12.3
+Senate,Bill Cassidy,Cassidy,R,LA,96.4,19.6,85.1,11.3
+Senate,Dianne Feinstein,Feinstein,D,CA,30.9,-30.1,20,10.9
+Senate,Pat Roberts,Roberts,R,KS,96.4,20.6,85.9,10.5
+Senate,Lindsey Graham,Graham,R,SC,89.3,14.3,79.3,9.9
+Senate,Jerry Moran,Moran,R,KS,94.5,20.6,85.7,8.9
+Senate,Todd Young,Young,R,IN,92.9,19.2,84.7,8.2
+Senate,Brian Schatz,Schatz,D,HI,26.8,-32.2,18.8,8
+Senate,John Kennedy,Kennedy,R,LA,92.9,19.6,85.1,7.8
+Senate,Lisa Murkowski,Murkowski,R,AK,87.3,14.7,79.6,7.6
+Senate,Steve Daines,Daines,R,MT,92.9,20.4,85.8,7.1
+Senate,John Boozman,Boozman,R,AR,96.4,26.9,89.9,6.5
+Senate,Mazie K. Hirono,Hirono,D,HI,25,-32.2,18.8,6.2
+Senate,Mitch McConnell,McConnell,R,KY,96.4,29.8,90.9,5.4
+Senate,John Thune,Thune,R,SD,96.4,29.8,91.1,5.3
+Senate,Lamar Alexander,Alexander,R,TN,94.4,26,89.1,5.3
+Senate,Benjamin L. Cardin,Cardin,D,MD,26.8,-26.4,21.5,5.3
+Senate,Patrick J. Leahy,Leahy,D,VT,26.8,-26.4,21.5,5.2
+Senate,Richard C. Shelby,Shelby,R,AL,94.6,27.7,90.3,4.4
+Senate,Jeff Sessions*,Sessions*,R,AL,100,27.7,95.8,4.2
+Senate,Deb Fischer,Fischer,R,NE,92.9,25,88.9,3.9
+Senate,John Hoeven,Hoeven,R,ND,96.4,35.7,92.5,3.9
+Senate,Mike Lee,Lee,R,UT,87.5,18.1,83.6,3.9
+Senate,Mike Rounds,Rounds,R,SD,94.6,29.8,91.1,3.6
+Senate,Tom Cotton,Cotton,R,AR,92.9,26.9,89.9,2.9
+Senate,Luther Strange,Strange,R,AL,90.9,27.7,88.5,2.4
+Senate,James M. Inhofe,Inhofe,R,OK,94.6,36.4,92.6,2
+Senate,Shelley Moore Capito,Capito,R,WV,94.5,42.2,93,1.5
+Senate,John Barrasso,Barrasso,R,WY,94.6,46.3,93.2,1.4
+Senate,Mike Crapo,Crapo,R,ID,92.7,31.8,91.6,1.1
+Senate,James Lankford,Lankford,R,OK,92.9,36.4,92.6,0.2
+Senate,Chris Van Hollen,Van Hollen,D,MD,21.8,-26.4,21.9,-0.1
+Senate,Ben Sasse,Sasse,R,NE,89.1,25,89.3,-0.2
+Senate,Michael B. Enzi,Enzi,R,WY,92.9,46.3,93.2,-0.4
+Senate,James E. Risch,Risch,R,ID,91.1,31.8,91.7,-0.6
+Senate,Charles E. Schumer,Schumer,D,NY,23.2,-22.5,23.8,-0.6
+Senate,Mark R. Warner,Warner,D,VA,42.9,-5.3,43.5,-0.7
+Senate,Thomas R. Carper,Carper,D,DE,32.1,-11.4,34.1,-1.9
+Senate,Maria Cantwell,Cantwell,D,WA,26.8,-15.5,29.5,-2.7
+Senate,Tammy Duckworth,Duckworth,D,IL,25,-17.1,28,-3
+Senate,Angus S. King Jr.,King,I,ME,44.6,-3,48,-3.4
+Senate,Christopher A. Coons,Coons,D,DE,30.9,-11.4,34.5,-3.6
+Senate,Kamala D. Harris,Harris,D,CA,16.1,-30.1,19.7,-3.6
+Senate,Bob Corker,Corker,R,TN,85.5,26,89.3,-3.8
+Senate,Christopher Murphy,Murphy,D,CT,27.3,-13.6,31.3,-4
+Senate,Robert Menendez,Menéndez,D,NJ,24.1,-14.1,28.5,-4.4
+Senate,Richard J. Durbin,Durbin,D,IL,22.2,-17.1,27.1,-4.9
+Senate,Jack Reed,Reed,D,RI,23.2,-15.5,29.5,-6.2
+Senate,Sheldon Whitehouse,Whitehouse,D,RI,23.2,-15.5,29.5,-6.2
+Senate,Patty Murray,Murray,D,WA,23.2,-15.5,29.5,-6.3
+Senate,Edward J. Markey,Markey,D,MA,14.5,-27.2,21.5,-6.9
+Senate,Bernard Sanders,Sanders,I,VT,14.3,-26.4,21.5,-7.3
+Senate,Rand Paul,Paul,R,KY,83,29.8,90.9,-7.9
+Senate,Tim Kaine,Kaine,D,VA,33.9,-5.3,43.5,-9.6
+Senate,Elizabeth Warren,Warren,D,MA,10.7,-27.2,21.1,-10.4
+Senate,Richard Blumenthal,Blumenthal,D,CT,20,-13.6,31.3,-11.3
+Senate,Martin Heinrich,Heinrich,D,NM,25,-8.2,38.7,-13.7
+Senate,Michael F. Bennet,Bennet,D,CO,30.4,-4.9,44.3,-14
+Senate,Kirsten E. Gillibrand,Gillibrand,D,NY,8.9,-22.5,23.8,-14.9
+Senate,Catherine Cortez Masto,Cortez Masto,D,NV,33.9,-2.4,49.1,-15.2
+Senate,Tom Udall,Udall,D,NM,23.2,-8.2,38.7,-15.5
+Senate,Cory A. Booker,Booker,D,NJ,14.3,-14.1,30.9,-16.6
+Senate,Ron Wyden,Wyden,D,OR,17.9,-11,34.7,-16.8
+Senate,Bill Nelson,Nelson,D,FL,37.5,1.2,56.5,-19
+Senate,Amy Klobuchar,Klobuchar,D,MN,30.4,-1.5,50.9,-20.5
+Senate,Margaret Wood Hassan,Hassan,D,NH,32.1,-0.4,53.3,-21.1
+Senate,Jeanne Shaheen,Shaheen,D,NH,32.1,-0.4,53.3,-21.1
+Senate,Jeff Merkley,Merkley,D,OR,12.5,-11,34.7,-22.2
+Senate,Gary C. Peters,Peters,D,MI,30.9,0.2,54.4,-23.5
+Senate,Debbie Stabenow,Stabenow,D,MI,30.4,0.2,54.5,-24.1
+Senate,Al Franken,Franken,D,MN,24.1,-1.5,49.4,-25.3
+Senate,Robert P. Casey Jr.,Casey,D,PA,28.6,0.7,55.5,-26.9
+Senate,Tammy Baldwin,Baldwin,D,WI,21.4,0.8,55.6,-34.2
+Senate,Joe Donnelly,Donnelly,D,IN,47.3,19.2,84.5,-37.2
+Senate,Joe Manchin III,Manchin,D,WV,53.6,42.2,93.2,-39.6
+Senate,Sherrod Brown,Brown,D,OH,30.4,8.1,70.1,-39.7
+Senate,Claire McCaskill,McCaskill,D,MO,43.6,18.6,84.2,-40.6
+Senate,Heidi Heitkamp,Heitkamp,D,ND,50,35.7,92.5,-42.5
+Senate,Jon Tester,Tester,D,MT,39.3,20.4,85.8,-46.5
+House,David G. Valadao,Valadao,R,CA-21,98.3,-15.5,30.5,67.8
+House,Erik Paulsen,Paulsen,R,MN-3,98.3,-9.4,42.5,55.8
+House,Carlos Curbelo,Curbelo,R,FL-26,83.9,-16.1,28.3,55.6
+House,Barbara Comstock,Comstock,R,VA-10,96.6,-10,41.1,55.5
+House,Edward R. Royce,Royce,R,CA-39,96.6,-8.6,44.3,52.3
+House,Mike Coffman,Coffman,R,CO-6,94.9,-8.9,43.6,51.3
+House,Stephen Knight,Knight,R,CA-25,98.3,-6.7,48.9,49.4
+House,Ileana Ros-Lehtinen,Ros-Lehtinen,R,FL-27,72.2,-19.7,23.8,48.4
+House,Darrell E. Issa,Issa,R,CA-49,93.1,-7.5,46.1,47
+House,Mimi Walters,Walters,R,CA-45,98.3,-5.4,52.1,46.2
+House,Peter J. Roskam,Roskam,R,IL-6,93.1,-7,48.3,44.8
+House,Martha McSally,McSally,R,AZ-2,96.6,-4.9,53.4,43.2
+House,Jeff Denham,Denham,R,CA-10,98.3,-3,58.2,40.1
+House,Will Hurd,Hurd,R,TX-23,96.6,-3.4,57.2,39.4
+House,Henry Cuellar,Cuellar,D,TX-28,62.7,-19.8,24.6,38.1
+House,Pete Sessions,Sessions,R,TX-32,98.3,-1.9,60.6,37.6
+House,John Abney Culberson,Culberson,R,TX-7,98.3,-1.4,62.1,36.2
+House,John Katko,Katko,R,NY-24,89.8,-3.6,56.7,33.2
+House,Karen C. Handel,Handel,R,GA-6,96,1.5,63.6,32.4
+House,Kevin Yoder,Yoder,R,KS-3,94.9,-1.2,62.6,32.3
+House,David G. Reichert,Reichert,R,WA-8,87.9,-3,58.3,29.6
+House,Dana Rohrabacher,Rohrabacher,R,CA-48,89.8,-1.7,61.4,28.4
+House,Patrick Meehan,Meehan,R,PA-7,88.1,-2.3,59.9,28.2
+House,Ryan A. Costello,Costello,R,PA-6,92.9,-0.6,65.4,27.5
+House,Jason Lewis,Lewis,R,MN-2,94.8,1.2,68.2,26.6
+House,Don Bacon,Bacon,R,NE-2,96.6,2.2,70.6,26.1
+House,Scott Taylor,Taylor,R,VA-2,98.2,3.4,73,25.2
+House,David Young,Young,R,IA-3,98.3,3.5,73.3,25
+House,Mario Diaz-Balart,Diaz-Balart,R,FL-25,92.9,1.7,69.3,23.6
+House,Leonard Lance,Lance,R,NJ-7,86.4,-1.1,62.9,23.6
+House,David A. Trott,Trott,R,MI-11,98.2,4.4,74.9,23.3
+House,Paul D. Ryan,Ryan,R,WI-1,100,10.3,77.1,22.9
+House,Kyrsten Sinema,Sinema,D,AZ-9,50,-16.3,27.6,22.4
+House,Rodney P. Frelinghuysen,Frelinghuysen,R,NJ-11,89.8,0.9,67.6,22.2
+House,Rod Blum,Blum,R,IA-1,94.9,3.5,73.3,21.6
+House,Randy Hultgren,Hultgren,R,IL-14,94.9,3.9,74.1,20.8
+House,Rob Woodall,Woodall,R,GA-7,98.3,6.3,78.6,19.7
+House,Rodney Davis,R. Davis,R,IL-13,96.6,5.5,77.2,19.4
+House,Lloyd Smucker,Smucker,R,PA-16,98.3,6.8,79.5,18.9
+House,Mike Bishop,Bishop,R,MI-8,96.6,6.7,79.3,17.3
+House,Mia B. Love,Love,R,UT-4,96.6,6.7,79.3,17.3
+House,John Curtis,Curtis,R,UT-3,100,23.9,83.1,16.9
+House,Jim Costa,Costa,D,CA-16,37.7,-21.6,21.1,16.7
+House,Kenny Marchant,Marchant,R,TX-24,94.9,6.2,78.4,16.5
+House,Fred Upton,Upton,R,MI-6,98.3,8.4,81.8,16.5
+House,Steve Chabot,Chabot,R,OH-1,94.9,6.6,79.1,15.8
+House,Pete Olson,Olson,R,TX-22,96.6,7.9,81,15.5
+House,Michael T. McCaul,McCaul,R,TX-10,98.3,9.1,82.9,15.4
+House,Brian K. Fitzpatrick,Fitzpatrick,R,PA-8,81.4,0.2,66,15.4
+House,Devin Nunes,Nunes,R,CA-22,98.2,9.5,83,15.2
+House,Thomas MacArthur,MacArthur,R,NJ-3,93.2,6.2,78.4,14.8
+House,Michael R. Turner,Turner,R,OH-10,94.9,7.3,80.3,14.6
+House,Dave Brat,Brat,R,VA-7,93.1,6.5,78.7,14.4
+House,J. Luis Correa,Correa,D,CA-46,28.8,-38.4,15,13.8
+House,Vern Buchanan,Buchanan,R,FL-16,98.2,10.7,84.8,13.4
+House,Patrick J. Tiberi,Tiberi,R,OH-12,98.2,11.3,85.6,12.6
+House,Lamar Smith,Smith,R,TX-21,96.5,10,84.3,12.2
+House,Dennis A. Ross,Ross,R,FL-15,96.4,10,84.3,12.2
+House,Susan W. Brooks,Brooks,R,IN-5,98.3,11.8,86.2,12.1
+House,Ken Calvert,Calvert,R,CA-42,98.3,12,86.4,11.9
+House,Brian J. Mast,Mast,R,FL-18,94.9,9.2,83.1,11.8
+House,Ted Poe,Poe,R,TX-2,94.6,9.3,82.9,11.7
+House,Mark E. Amodei,Amodei,R,NV-2,98.3,12.3,86.6,11.7
+House,John R. Carter,Carter,R,TX-31,98.3,12.7,87.1,11.2
+House,Jaime Herrera Beutler,Herrera Beutler,R,WA-3,91.5,7.4,80.4,11.1
+House,Cathy McMorris Rodgers,McMorris Rodgers,R,WA-5,98.3,13.1,87.5,10.8
+House,Greg Gianforte,Gianforte,R,MT-AL,96,20.4,85.5,10.5
+House,Charles W. Dent,Dent,R,PA-15,91.4,7.6,80.8,10.5
+House,Ann Wagner,Wagner,R,MO-2,94.8,10.3,84.4,10.4
+House,Ted Budd,Budd,R,NC-13,94.8,9.4,84.8,10
+House,Bruce Poliquin,Poliquin,R,ME-2,94.8,10.3,84.8,10
+House,Robert Pittenger,Pittenger,R,NC-9,96.4,11.6,86.5,10
+House,J. French Hill,Hill,R,AR-2,94.8,10.7,85.1,9.7
+House,Tom Reed,Reed,R,NY-23,98.2,14.8,88.6,9.6
+House,George Holding,Holding,R,NC-2,93.2,9.6,83.6,9.6
+House,Mike Bost,Bost,R,IL-12,98.3,14.8,88.9,9.4
+House,"Earl L. ""Buddy"" Carter",Carter,R,GA-1,98.1,15.5,89,9.2
+House,Paul Cook,Cook,R,CA-8,98.3,15.1,89.1,9.2
+House,David Schweikert,Schweikert,R,AZ-6,93.2,10,84.1,9.1
+House,David P. Joyce,Joyce,R,OH-14,94.9,11.5,85.9,9
+House,Steve Stivers,Stivers,R,OH-15,98.2,15.4,89.3,9
+House,Gene Green,G. Green,D,TX-29,23.2,-45.7,14.6,8.6
+House,Scott R. Tipton,Tipton,R,CO-3,94.9,12,86.4,8.5
+House,Rick W. Allen,Allen,R,GA-12,98.3,16.2,89.9,8.4
+House,Scott H. Peters,Peters,D,CA-52,29.3,-22.5,21.2,8.1
+House,Tim Walberg,Walberg,R,MI-7,98.3,17,90.4,7.9
+House,Bradley Scott Schneider,Schneider,D,IL-10,25.4,-29.4,17.6,7.8
+House,Adam Kinzinger,Kinzinger,R,IL-16,98.3,17.2,90.5,7.8
+House,Bill Flores,Flores,R,TX-17,98.3,17.5,90.6,7.7
+House,Joe Wilson,Wilson,R,SC-2,98.3,17.7,90.8,7.5
+House,Beto O’Rourke,O’Rourke,D,TX-16,22,-40.7,14.6,7.4
+House,Claudia Tenney,Tenney,R,NY-22,96.6,15.5,89.4,7.2
+House,Stevan Pearce,Pearce,R,NM-2,91.5,10.2,84.4,7.1
+House,Tom Rice,Rice,R,SC-7,98.3,18.9,91.3,7
+House,Doug LaMalfa,LaMalfa,R,CA-1,98.3,19.7,91.5,6.7
+House,Jimmy Panetta,Panetta,D,CA-20,20.3,-47.2,13.8,6.5
+House,Joe Barton,Barton,R,TX-6,93.1,12.3,86.6,6.5
+House,Greg Walden,Walden,R,OR-2,98.3,20.1,91.8,6.5
+House,Bill Huizenga,Huizenga,R,MI-2,96.6,17.6,90.6,6
+House,Roger Williams,Williams,R,TX-25,94.9,14.9,89,5.9
+House,Kevin McCarthy,McCarthy,R,CA-23,98.3,22,92.4,5.9
+House,Albio Sires,Sires,D,NJ-8,19.6,-54.2,14,5.6
+House,Andy Barr,Barr,R,KY-6,94.9,15.3,89.3,5.6
+House,Lou Barletta,Barletta,R,PA-11,98.2,23.8,92.7,5.6
+House,Gerald E. Connolly,Connolly,D,VA-11,20.3,-39.4,14.8,5.5
+House,Harold Rogers,Rogers,R,KY-5,98.3,62.1,92.8,5.5
+House,Chris Collins,Collins,R,NY-27,98.2,24.5,92.8,5.5
+House,Robert B. Aderholt,Aderholt,R,AL-4,98.3,63,92.9,5.4
+House,Steve Russell,Russell,R,OK-5,93.1,13.4,87.7,5.4
+House,David Scott,D. Scott,D,GA-13,19.6,-44.4,14.2,5.4
+House,Michael K. Simpson,Simpson,R,ID-2,98.2,24.7,92.8,5.4
+House,Gregg Harper,Harper,R,MS-3,98.3,24.5,93,5.3
+House,Patrick T. McHenry,McHenry,R,NC-10,98.3,24.5,93,5.3
+House,K. Michael Conaway,Conaway,R,TX-11,98.3,58.7,93.1,5.3
+House,John R. Moolenaar,Moolenaar,R,MI-4,98.3,24.8,93.1,5.2
+House,Randy K. Weber Sr.,Weber,R,TX-14,96.4,19.8,91.3,5.1
+House,Mike Kelly,Kelly,R,PA-3,98.3,26.1,93.2,5.1
+House,Dan Newhouse,Newhouse,R,WA-4,98.2,22.8,93.1,5.1
+House,Tom Graves,Graves,R,GA-14,98.3,52.9,93.2,5.1
+House,Trey Gowdy,Gowdy,R,SC-4,98.3,25.7,93.2,5.1
+House,Ted S. Yoho,Yoho,R,FL-3,94.6,16,89.6,5.1
+House,Michael C. Burgess,Burgess,R,TX-26,98.3,26.5,93.2,5.1
+House,Frank D. Lucas,Lucas,R,OK-3,98.3,52.7,93.3,5
+House,Kay Granger,Granger,R,TX-12,98.1,30.2,93.2,5
+House,Gus M. Bilirakis,Bilirakis,R,FL-12,96.6,18.6,91.6,5
+House,Chris Stewart,Stewart,R,UT-2,92.9,14,87.9,5
+House,Kevin Brady,Brady,R,TX-8,98.3,48.8,93.5,4.9
+House,Steve Scalise,Scalise,R,LA-1,100,42,95.2,4.8
+House,John Shimkus,Shimkus,R,IL-15,98.3,46.2,93.6,4.8
+House,Glenn Thompson,Thompson,R,PA-5,98.3,28.8,93.6,4.8
+House,Mike Quigley,Quigley,D,IL-5,18.6,-46.6,13.9,4.7
+House,Austin Scott,A. Scott,R,GA-8,98.3,28.9,93.6,4.7
+House,Gregory W. Meeks,Meeks,D,NY-5,17.9,-73,13.1,4.7
+House,Tom Cole,Cole,R,OK-4,98.2,37.4,93.6,4.7
+House,Kevin Cramer,Cramer,R,ND-AL,98.2,35.7,93.6,4.6
+House,Bill Johnson,Johnson,R,OH-6,98.3,42.6,93.7,4.6
+House,Bill Shuster,Shuster,R,PA-9,98.3,42.5,93.7,4.6
+House,David B. McKinley,McKinley,R,WV-1,98.3,41.6,93.7,4.6
+House,Tim Murphy*,Murphy*,R,PA-18,97.9,19.6,93.3,4.6
+House,Steve Womack,Womack,R,AR-3,98.3,31.4,93.7,4.6
+House,Glenn Grothman,Grothman,R,WI-6,94.9,16.9,90.3,4.6
+House,Rick Crawford,Crawford,R,AR-1,98.3,34.8,93.7,4.6
+House,Clay Higgins,Higgins,R,LA-3,98.3,38.1,93.7,4.6
+House,Brett Guthrie,Guthrie,R,KY-2,98.3,39.9,93.7,4.6
+House,Larry Bucshon,Bucshon,R,IN-8,98.3,33.7,93.8,4.5
+House,Chuck Fleischmann,Fleischmann,R,TN-3,98.3,35.2,93.8,4.5
+House,John J. Faso,Faso,R,NY-19,84.7,7.3,80.3,4.5
+House,Jeff Fortenberry,Fortenberry,R,NE-1,96.5,21.3,92,4.5
+House,John H. Rutherford,Rutherford,R,FL-4,98.1,28,93.7,4.4
+House,Jack Bergman,Bergman,R,MI-1,96.6,21.3,92.2,4.4
+House,Don Young,Young,R,AK-AL,93.2,14.7,88.9,4.3
+House,Mark Walker,Walker,R,NC-6,92.6,14.7,88.3,4.3
+House,Jackie Speier,Speier,D,CA-14,17.2,-58.7,12.9,4.3
+House,Sam Johnson,S. Johnson,R,TX-3,92.2,14.2,87.9,4.3
+House,Duncan Hunter,Hunter,R,CA-50,93.2,15,89.1,4.1
+House,Francis Rooney,F. Rooney,R,FL-19,96.4,22.1,92.3,4.1
+House,Ron DeSantis,DeSantis,R,FL-6,94.8,17,90.7,4.1
+House,Richard Hudson,Hudson,R,NC-8,92.5,15,88.5,4
+House,Lynn Jenkins,Jenkins,R,KS-2,94.7,18.4,90.9,3.9
+House,Blake Farenthold,Farenthold,R,TX-27,96.6,23.6,92.8,3.8
+House,Tulsi Gabbard,Gabbard,D,HI-2,20.7,-31.8,16.9,3.7
+House,Thomas A. Garrett Jr.,Garrett,R,VA-5,89.1,11.1,85.4,3.7
+House,Mac Thornberry,Thornberry,R,TX-13,96.6,63,92.9,3.7
+House,Neal P. Dunn,Dunn,R,FL-2,98.3,35.6,94.6,3.7
+House,Anna G. Eshoo,Eshoo,D,CA-18,15.5,-53.2,11.9,3.6
+House,Doug Collins,Collins,R,GA-9,96.6,58.5,93.1,3.5
+House,Robert E. Latta,Latta,R,OH-5,96.6,25.1,93.1,3.5
+House,C. A. Dutch Ruppersberger,Ruppersberger,D,MD-2,23.7,-24.6,20.2,3.5
+House,David P. Roe,Roe,R,TN-1,96.6,57,93.1,3.5
+House,Adrian Smith,Smith,R,NE-3,96.6,54.9,93.1,3.5
+House,Ralph Norman,Norman,R,SC-5,88,18.5,84.6,3.4
+House,Brad R. Wenstrup,Wenstrup,R,OH-2,93.2,16.1,89.8,3.4
+House,Adam B. Schiff,Schiff,D,CA-28,16.9,-49.8,13.6,3.3
+House,Thomas J. Rooney,T. Rooney,R,FL-17,96.4,27.2,93.2,3.3
+House,Rob Bishop,Bishop,R,UT-1,96.5,27.3,93.2,3.2
+House,Eric Swalwell,Swalwell,D,CA-15,17.2,-45.7,14.1,3.2
+House,Evan H. Jenkins,Jenkins,R,WV-3,96.6,49.2,93.4,3.2
+House,Jodey C. Arrington,Arrington,R,TX-19,96.6,49,93.4,3.2
+House,Sam Graves,Graves,R,MO-6,98.2,31.4,95.1,3.1
+House,Al Lawson Jr.,Lawson,D,FL-5,22.2,-25.4,19.1,3.1
+House,Brian Babin,Babin,R,TX-36,96.6,46.8,93.5,3.1
+House,Roger W. Marshall,Marshall,R,KS-1,96.6,45,93.6,3
+House,Terri A. Sewell,Sewell,D,AL-7,17.2,-41.2,14.2,3
+House,Bradley Byrne,Byrne,R,AL-1,96.6,29.4,93.6,3
+House,Mike Thompson,Thompson,D,CA-5,15.8,-44.9,12.8,3
+House,Robert J. Wittman,Wittman,R,VA-1,89.7,12.4,86.7,2.9
+House,A. Drew Ferguson IV,Ferguson,R,GA-3,96.6,31.5,93.7,2.9
+House,Martha Roby,Roby,R,AL-2,96.6,31.9,93.7,2.9
+House,Blaine Luetkemeyer,Luetkemeyer,R,MO-3,96.6,39,93.8,2.9
+House,Mike Rogers,Rogers,R,AL-3,96.6,33,93.8,2.9
+House,Vicky Hartzler,Hartzler,R,MO-4,96.6,36,93.8,2.8
+House,Brad Sherman,Sherman,D,CA-30,17.2,-43.4,14.5,2.7
+House,Lucille Roybal-Allard,Roybal-Allard,D,CA-40,15.5,-69.4,12.8,2.7
+House,Virginia Foxx,Foxx,R,NC-5,93.2,17.5,90.7,2.6
+House,Stephen F. Lynch,Lynch,D,MA-8,21.1,-26,18.5,2.6
+House,Mike Gallagher,Gallagher,R,WI-8,93.2,17.6,90.7,2.5
+House,David Rouzer,Rouzer,R,NC-7,93,17.7,90.6,2.4
+House,Brenda L. Lawrence,Lawrence,D,MI-14,14,-60.9,11.6,2.4
+House,Grace Meng,Meng,D,NY-6,19,-33,16.6,2.4
+House,Norma J. Torres,Torres,D,CA-35,17.2,-40.8,14.9,2.4
+House,Marc A. Veasey,Veasey,D,TX-33,15.5,-49.2,13.2,2.4
+House,Daniel Lipinski,Lipinski,D,IL-3,32.8,-15.3,30.4,2.3
+House,Bill Posey,Posey,R,FL-8,94.6,20.7,92.4,2.2
+House,Wm. Lacy Clay,Clay,D,MO-1,15.5,-58.2,13.3,2.2
+House,Tom Marino,Marino,R,PA-10,96.3,35.9,94.1,2.2
+House,Steven M. Palazzo,Palazzo,R,MS-4,96.5,41.2,94.3,2.2
+House,James B. Renacci,Renacci,R,OH-16,94.3,16.6,92.1,2.2
+House,Bill Pascrell Jr.,Pascrell,D,NJ-9,19,-31.2,16.8,2.2
+House,Jackie Walorski,Walorski,R,IN-2,94.9,23.2,92.7,2.2
+House,Ron Estes,Estes,R,KS-4,91.2,27.2,89,2.2
+House,Hank Johnson Jr.,Johnson,D,GA-4,15.5,-53.1,13.6,1.9
+House,Donald S. Beyer Jr.,Beyer,D,VA-8,15.8,-52.6,13.9,1.9
+House,Zoe Lofgren,Lofgren,D,CA-19,15.3,-51.4,13.5,1.8
+House,G. K. Butterfield,Butterfield,D,NC-1,17.2,-37,15.6,1.7
+House,Earl Blumenauer,Blumenauer,D,OR-3,16.1,-48.2,14.5,1.6
+House,Steve King,King,R,IA-4,94.6,27.4,93.1,1.6
+House,Val Butler Demings,Demings,D,FL-10,20.3,-26.9,18.8,1.5
+House,Elijah E. Cummings,Cummings,D,MD-7,13,-55,11.5,1.5
+House,Darin LaHood,LaHood,R,IL-18,94.9,27.3,93.4,1.5
+House,James Comer,Comer,R,KY-1,94.9,48.5,93.5,1.5
+House,Jeb Hensarling,Hensarling,R,TX-5,94.9,28.4,93.5,1.4
+House,Liz Cheney,Cheney,R,WY-AL,94.9,46.3,93.5,1.4
+House,Jason Chaffetz*,Chaffetz*,R,UT-3,100,23.9,98.6,1.4
+House,Ro Khanna,Khanna,D,CA-17,13.8,-53.4,12.4,1.3
+House,Nancy Pelosi,Pelosi,D,CA-12,14.5,-77.5,13.2,1.3
+House,Bob Gibbs,Gibbs,R,OH-7,94.9,29.7,93.6,1.3
+House,Susan A. Davis,Davis,D,CA-53,16.9,-34.9,15.8,1.2
+House,Paul Mitchell,Mitchell,R,MI-10,94.9,32.2,93.7,1.2
+House,Doris O. Matsui,Matsui,D,CA-6,15.3,-44.8,14.1,1.2
+House,Bruce Westerman,Westerman,R,AR-4,94.9,32.9,93.8,1.2
+House,Keith J. Rothfus,Rothfus,R,PA-12,93.2,20.8,92.1,1.2
+House,Sean P. Duffy,Duffy,R,WI-7,93.1,20.5,92,1.1
+House,Michael E. Capuano,Capuano,D,MA-7,13.8,-72.2,12.7,1.1
+House,Eddie Bernice Johnson,E. Johnson,D,TX-30,14.8,-60.8,13.7,1.1
+House,Hakeem S. Jeffries,Jeffries,D,NY-8,13.6,-71.1,12.5,1
+House,Carolyn B. Maloney,C. Maloney,D,NY-12,13.8,-69.8,12.8,1
+House,Tom McClintock,McClintock,R,CA-4,89.8,14.7,88.9,1
+House,Jim Cooper,Cooper,D,TN-5,27.1,-18.4,26.3,0.8
+House,Jimmy Gomez,Gomez,D,CA-34,18.2,-72.9,17.4,0.8
+House,Trent Franks*,Franks*,R,AZ-8,92.9,21.1,92.1,0.8
+House,Frank A. LoBiondo,LoBiondo,R,NJ-2,76.3,4.6,75.5,0.8
+House,Robert A. Brady,Brady,D,PA-1,13.6,-61.3,12.9,0.7
+House,Al Green,A. Green,D,TX-9,13.6,-61.3,12.9,0.7
+House,Tony Cárdenas,Cárdenas,D,CA-29,13.6,-60.9,12.9,0.6
+House,Ted Lieu,Lieu,D,CA-33,14.3,-41.3,13.7,0.6
+House,Jerrold Nadler,Nadler,D,NY-10,14.3,-59.5,13.7,0.6
+House,Diane Black,Black,R,TN-6,94.7,48.9,94.2,0.6
+House,Billy Long,Long,R,MO-7,94.2,45.7,93.7,0.6
+House,Ryan K. Zinke*,Zinke*,R,MT-AL,100,20.4,99.4,0.6
+House,Anthony G. Brown,Brown,D,MD-4,13.8,-58.5,13.3,0.5
+House,David E. Price,Price,D,NC-4,15.3,-40,14.7,0.5
+House,Joseph Crowley,Crowley,D,NY-14,14,-57.9,13.5,0.5
+House,Steve Cohen,Cohen,D,TN-9,13.6,-57.7,13.1,0.5
+House,Donald M. Payne Jr.,Payne,D,NJ-10,11.1,-72.4,10.6,0.5
+House,Sheila Jackson Lee,Jackson Lee,D,TX-18,13.8,-56.5,13.4,0.4
+House,Daniel Webster,Webster,R,FL-11,94.6,32.3,94.3,0.3
+House,Linda T. Sánchez,Sánchez,D,CA-38,13.8,-39.6,13.5,0.3
+House,Doug Lamborn,Lamborn,R,CO-5,93.2,24,92.9,0.3
+House,Joyce Beatty,Beatty,D,OH-3,15.3,-38.4,15,0.2
+House,Mike Johnson,Johnson,R,LA-4,93,24,92.8,0.2
+House,Eliot L. Engel,Engel,D,NY-16,14,-52.6,13.9,0.2
+House,Bob Goodlatte,Goodlatte,R,VA-6,93.2,24.8,93.1,0.2
+House,Jody B. Hice,Hice,R,GA-10,93.2,25.5,93.2,0
+House,Barry Loudermilk,Loudermilk,R,GA-11,92.9,25,92.8,0
+House,Mick Mulvaney*,Mulvaney*,R,SC-5,NA,18.5,0,NA
+House,Mike Pompeo*,Pompeo*,R,KS-4,NA,27.2,0,NA
+House,Tom Price*,Price*,R,GA-6,NA,1.5,0,NA
+House,Xavier Becerra*,Becerra*,D,CA-34,0,-72.9,0,0
+House,Jason Smith,Smith,R,MO-8,93.2,54.4,93.2,0
+House,John Conyers Jr.*,Conyers*,D,MI-13,13.2,-60.7,13.3,-0.1
+House,Ruben Gallego,Gallego,D,AZ-7,13.8,-49.2,13.9,-0.1
+House,José E. Serrano,Serrano,D,NY-15,11.9,-88.9,12,-0.1
+House,Peter T. King,King,R,NY-2,82.5,9.1,82.7,-0.3
+House,Michael F. Doyle,Doyle,D,PA-14,15.3,-35.9,15.5,-0.3
+House,Markwayne Mullin,Mullin,R,OK-2,93.1,50.1,93.4,-0.3
+House,Lee M. Zeldin,Zeldin,R,NY-1,86.4,12.3,86.7,-0.3
+House,Dwight Evans,Evans,D,PA-2,12.1,-82.8,12.4,-0.3
+House,Gary J. Palmer,Palmer,R,AL-6,94.7,44.7,95.1,-0.4
+House,Mark Meadows,Meadows,R,NC-11,94.6,29.4,95,-0.4
+House,Ralph Lee Abraham,Abraham,R,LA-5,93.2,29.4,93.6,-0.4
+House,Kristi L. Noem,Noem,R,SD-AL,93.2,29.8,93.6,-0.4
+House,Salud O. Carbajal,Carbajal,D,CA-24,23.7,-20.2,24.1,-0.4
+House,Diana DeGette,DeGette,D,CO-1,10.5,-45.8,11,-0.4
+House,Jared Huffman,Huffman,D,CA-2,12.1,-45.7,12.5,-0.4
+House,Cedric L. Richmond,Richmond,D,LA-2,10.9,-52.4,11.4,-0.5
+House,Danny K. Davis,D. Davis,D,IL-7,10.9,-78.2,11.4,-0.5
+House,Trent Kelly,Kelly,R,MS-1,93.2,33,93.8,-0.5
+House,Marsha Blackburn,Blackburn,R,TN-7,93.1,39.3,93.6,-0.5
+House,Jeff Duncan,Duncan,R,SC-3,93.2,38,93.8,-0.6
+House,Todd Rokita,Rokita,R,IN-4,93.2,34.1,93.8,-0.6
+House,Jim Banks,Banks,R,IN-3,93.2,35,93.8,-0.6
+House,Frederica S. Wilson,Wilson,D,FL-24,13.5,-67.7,14.1,-0.6
+House,Nanette Diaz Barragán,Barragán,D,CA-44,12.1,-70.7,12.8,-0.7
+House,Brendan F. Boyle,Boyle,D,PA-13,15.3,-33.6,16.1,-0.9
+House,Lloyd Doggett,Doggett,D,TX-35,15.3,-33.6,16.1,-0.9
+House,Robin L. Kelly,Kelly,D,IL-2,11.9,-58.9,13,-1.2
+House,Alma S. Adams,Adams,D,NC-12,13.6,-40,14.7,-1.2
+House,Julia Brownley,Brownley,D,CA-26,21.4,-21.9,22.8,-1.4
+House,Bobby Scott,Scott,D,VA-3,15.3,-31.7,16.7,-1.4
+House,Alan S. Lowenthal,Lowenthal,D,CA-47,15.5,-31.6,17,-1.5
+House,Karen Bass,Bass,D,CA-37,10.9,-76.1,12.4,-1.5
+House,Gwen Moore,Moore,D,WI-4,12.1,-52.2,13.7,-1.6
+House,Judy Chu,Chu,D,CA-27,13.6,-37.6,15.2,-1.6
+House,Tom Emmer,Emmer,R,MN-6,91.5,25.7,93.2,-1.7
+House,John Ratcliffe,Ratcliffe,R,TX-4,91.5,53.6,93.3,-1.7
+House,John P. Sarbanes,Sarbanes,D,MD-3,15.3,-30.8,17,-1.8
+House,Elise M. Stefanik,Stefanik,R,NY-21,86.4,13.9,88.2,-1.8
+House,Juan Vargas,Vargas,D,CA-51,11.9,-49,13.7,-1.8
+House,F. James Sensenbrenner Jr.,Sensenbrenner,R,WI-5,89.8,20.1,91.8,-2
+House,Andy Harris,Harris,R,MD-1,91.4,28.4,93.4,-2
+House,Adam Smith,Smith,D,WA-9,12.5,-47.2,14.6,-2.1
+House,Bobby L. Rush,Rush,D,IL-1,14.6,-54,16.8,-2.1
+House,Scott DesJarlais,DesJarlais,R,TN-4,91.5,41.2,93.7,-2.2
+House,Nydia M. Velázquez,Velázquez,D,NY-7,10.3,-76.5,12.6,-2.2
+House,Luke Messer,Messer,R,IN-6,91.4,40.3,93.6,-2.2
+House,Garret Graves,Graves,R,LA-6,91.5,33.8,93.8,-2.2
+House,David Kustoff,Kustoff,R,TN-8,91.5,35.6,93.8,-2.3
+House,Raja Krishnamoorthi,Krishnamoorthi,D,IL-8,20.3,-21.7,22.6,-2.3
+House,Warren Davidson,Davidson,R,OH-8,91.4,34.5,93.7,-2.3
+House,Jim Jordan,Jordan,R,OH-4,91.2,33.6,93.6,-2.3
+House,Pramila Jayapal,Jayapal,D,WA-7,10.2,-69.9,12.6,-2.4
+House,Scott Perry,Perry,R,PA-4,89.8,21.5,92.3,-2.5
+House,Yvette D. Clarke,Clarke,D,NY-9,10.3,-69.1,12.8,-2.5
+House,Daniel M. Donovan Jr.,Donovan,R,NY-11,81.4,9.8,83.9,-2.5
+House,Katherine M. Clark,Clark,D,MA-5,13,-43.6,15.5,-2.6
+House,Marcia L. Fudge,Fudge,D,OH-11,10.2,-63.5,12.8,-2.6
+House,Jim Bridenstine,Bridenstine,R,OK-1,93.3,28.7,96,-2.7
+House,John B. Larson,Larson,D,CT-1,17.9,-23.1,20.6,-2.8
+House,James A. Himes,Himes,D,CT-4,19,-23,21.8,-2.8
+House,Colleen Hanabusa,Hanabusa,D,HI-1,13.6,-32.6,16.4,-2.8
+House,Dina Titus,Titus,D,NV-1,14,-29,16.9,-2.9
+House,Donald Norcross,Norcross,D,NJ-1,17.2,-24.5,20.1,-2.9
+House,Luis V. Gutiérrez,Gutiérrez,D,IL-4,9.1,-68.9,12.3,-3.2
+House,Vicente Gonzalez,Gonzalez,D,TX-15,25.4,-16.7,28.6,-3.2
+House,Steny H. Hoyer,Hoyer,D,MD-5,13.6,-31,16.9,-3.4
+House,Joaquin Castro,Castro,D,TX-20,15.5,-26.7,18.9,-3.4
+House,Betty McCollum,McCollum,D,MN-4,13.6,-30.9,17,-3.4
+House,Mark DeSaulnier,DeSaulnier,D,CA-11,10.2,-48.8,13.7,-3.5
+House,Adriano Espaillat,Espaillat,D,NY-13,8.5,-86.9,12.1,-3.6
+House,Raúl R. Labrador,Labrador,R,ID-1,90.7,38.3,94.3,-3.6
+House,James E. Clyburn,Clyburn,D,SC-6,11.5,-36.5,15.2,-3.7
+House,Trey Hollingsworth,Hollingsworth,R,IN-9,89.5,26.9,93.2,-3.7
+House,Barbara Lee,Lee,D,CA-13,8.5,-80.6,12.2,-3.8
+House,Janice D. Schakowsky,Schakowsky,D,IL-9,10.2,-45.2,14,-3.9
+House,Bill Foster,Foster,D,IL-11,17.2,-23.5,21.1,-3.9
+House,Filemon Vela,Vela,D,TX-34,17.5,-21.5,21.4,-3.9
+House,Debbie Dingell,Dingell,D,MI-12,15.3,-26.3,19.1,-3.9
+House,Grace F. Napolitano,Napolitano,D,CA-32,13.3,-38.9,17.2,-3.9
+House,Alexander X. Mooney,Mooney,R,WV-2,89.8,36.4,93.8,-4
+House,H. Morgan Griffith,Griffith,R,VA-9,89.5,41.5,93.5,-4
+House,John Lewis,Lewis,D,GA-5,8.6,-73.1,12.7,-4
+House,Mark Pocan,Pocan,D,WI-2,12,-36.8,16.2,-4.2
+House,Paul A. Gosar,Gosar,R,AZ-4,88.9,40.2,93.2,-4.3
+House,David N. Cicilline,Cicilline,D,RI-1,15.3,-25.6,19.6,-4.3
+House,Maxine Waters,Waters,D,CA-43,8.5,-61.7,12.9,-4.4
+House,Pete Aguilar,Aguilar,D,CA-31,19,-21.1,23.5,-4.5
+House,Bennie G. Thompson,Thompson,D,MS-2,14,-28.5,18.6,-4.5
+House,Ken Buck,Buck,R,CO-4,88.1,23.1,92.7,-4.6
+House,Alcee L. Hastings,Hastings,D,FL-20,8.9,-62.1,13.6,-4.6
+House,Keith Ellison,Ellison,D,MN-5,8.5,-55.2,13.2,-4.8
+House,Mark Takano,Takano,D,CA-41,13.8,-27.9,18.6,-4.8
+House,Sanford D. Bishop Jr.,Bishop,D,GA-2,32.8,-11.7,37.8,-5
+House,Debbie Wasserman Schultz,Wasserman Schultz,D,FL-23,12.3,-26.1,17.8,-5.5
+House,Peter Welch,Welch,D,VT-AL,13.6,-26.4,19.1,-5.5
+House,Marcy Kaptur,Kaptur,D,OH-9,15.8,-22.2,21.4,-5.6
+House,Louie Gohmert,Gohmert,R,TX-1,87.7,46.9,93.3,-5.6
+House,Jamie Raskin,Raskin,D,MD-8,10.2,-33.7,16.1,-5.9
+House,Brian Higgins,Higgins,D,NY-26,19,-19.6,25.1,-6.1
+House,Mo Brooks,Brooks,R,AL-5,87.3,33.4,93.4,-6.1
+House,Suzanne Bonamici,Bonamici,D,OR-1,15.3,-22.8,21.6,-6.4
+House,Niki Tsongas,Tsongas,D,MA-3,14,-22.8,20.6,-6.6
+House,Rick Larsen,Larsen,D,WA-2,15.3,-22.1,22.2,-7
+House,Matt Gaetz,Gaetz,R,FL-1,86.4,39.3,93.8,-7.3
+House,John K. Delaney,Delaney,D,MD-6,22.4,-16.1,29.8,-7.4
+House,Bonnie Watson Coleman,Watson Coleman,D,NJ-12,8.5,-33.2,16.2,-7.8
+House,Mark Sanford,Sanford,R,SC-1,79.7,13.1,87.5,-7.8
+House,A. Donald McEachin,McEachin,D,VA-4,14.3,-21.6,22.3,-8
+House,Seth Moulton,Moulton,D,MA-6,18.6,-17.9,26.9,-8.3
+House,Richard E. Neal,Neal,D,MA-1,15.3,-20.7,23.6,-8.4
+House,Joseph P. Kennedy III,Kennedy,D,MA-4,13.2,-24.2,21.6,-8.4
+House,Lois Frankel,Frankel,D,FL-21,17.3,-19.5,26.1,-8.8
+House,Nita M. Lowey,Lowey,D,NY-17,15.3,-20.2,24.1,-8.9
+House,Raúl M. Grijalva,Grijalva,D,AZ-3,8.5,-29.9,17.4,-8.9
+House,Jerry McNerney,McNerney,D,CA-9,16.9,-18.6,26,-9.1
+House,Andy Biggs,Biggs,R,AZ-5,83.1,21.1,92.2,-9.1
+House,John J. Duncan Jr.,Duncan,R,TN-2,84.5,35.4,93.7,-9.2
+House,Kathy Castor,Castor,D,FL-14,17.2,-18.2,26.9,-9.6
+House,André Carson,Carson,D,IN-7,12.5,-22.8,22.6,-10.1
+House,Stephanie N. Murphy,Murphy,D,FL-7,36.2,-7.3,46.7,-10.5
+House,Jared Polis,Polis,D,CO-2,11.9,-21.3,23,-11.1
+House,Michelle Lujan Grisham,Lujan Grisham,D,NM-1,16.9,-16.5,28.9,-12
+House,James P. McGovern,McGovern,D,MA-2,12.1,-19.4,25,-13
+House,Theodore E. Deutch,Deutch,D,FL-22,14.3,-15.8,27.9,-13.6
+House,Suzan K. DelBene,DelBene,D,WA-1,15.3,-16.3,29.2,-14
+House,John A. Yarmuth,Yarmuth,D,KY-3,16.9,-15,31.3,-14.4
+House,Ami Bera,Bera,D,CA-7,23.7,-11.4,38.1,-14.4
+House,Darren Soto,Soto,D,FL-9,20.3,-12.9,35.1,-14.8
+House,Rosa L. DeLauro,DeLauro,D,CT-3,14.3,-15.5,29.8,-15.5
+House,Ben Ray Luján,Luján,D,NM-3,15.3,-15.1,31.1,-15.9
+House,Louise McIntosh Slaughter,Slaughter,D,NY-25,11.5,-16.4,27.9,-16.4
+House,Christopher H. Smith,Smith,R,NJ-4,72.4,14.8,88.8,-16.4
+House,Ed Perlmutter,Perlmutter,D,CO-7,20.3,-12,36.9,-16.5
+House,Raul Ruiz,Ruiz,D,CA-36,27.1,-8.8,43.9,-16.8
+House,William R. Keating,Keating,D,MA-9,22,-10.7,39.6,-17.6
+House,Derek Kilmer,Kilmer,D,WA-6,18.6,-12.3,36.3,-17.6
+House,Chellie Pingree,Pingree,D,ME-1,13.8,-14.8,31.9,-18.1
+House,Emanuel Cleaver,Cleaver,D,MO-5,15.1,-13.5,33.4,-18.4
+House,Paul Tonko,Tonko,D,NY-20,15.8,-13.5,34.5,-18.7
+House,John Garamendi,Garamendi,D,CA-3,16.9,-12.6,35.7,-18.7
+House,Frank Pallone Jr.,Pallone,D,NJ-6,10.2,-15.6,30.3,-20.2
+House,Lisa Blunt Rochester,Blunt Rochester,D,DE-AL,17.2,-11.4,37.6,-20.4
+House,Peter J. Visclosky,Visclosky,D,IN-1,15.3,-12.6,35.7,-20.4
+House,Justin Amash,Amash,R,MI-3,62.7,9.4,83.4,-20.6
+House,Denny Heck,Heck,D,WA-10,16.9,-11.4,38.1,-21.2
+House,Thomas Massie,Massie,R,KY-4,71.2,35.9,93.8,-22.6
+House,Charlie Crist,Crist,D,FL-13,32.1,-3.2,57.3,-25.2
+House,Tom O’Halleran,O’Halleran,D,AZ-1,42.4,1.1,68.1,-25.7
+House,Thomas R. Suozzi,Suozzi,D,NY-3,23.2,-6.1,49.2,-26
+House,Kathleen M. Rice,Rice,D,NY-4,15.3,-9.6,42,-26.8
+House,Josh Gottheimer,Gottheimer,D,NJ-5,40.7,1.1,68.1,-27.4
+House,Kurt Schrader,Schrader,D,OR-5,27.6,-4.2,55.2,-27.6
+House,Collin C. Peterson,Peterson,D,MN-7,63.2,30.8,93.5,-30.3
+House,James R. Langevin,Langevin,D,RI-2,16.9,-7.1,47.9,-31
+House,Ruben J. Kihuen,Kihuen,D,NV-4,22.4,-4.9,53.5,-31.1
+House,Tim Ryan,Ryan,D,OH-13,16.9,-6.5,49.4,-32.5
+House,Sander M. Levin,Levin,D,MI-9,13.6,-7.8,46.2,-32.7
+House,Elizabeth H. Esty,Esty,D,CT-5,20.3,-4.1,55.4,-35.1
+House,Jacky Rosen,Rosen,D,NV-3,31,1,67.8,-36.8
+House,Walter B. Jones,Jones,R,NC-3,55.8,23.6,92.8,-37
+House,Ann M. Kuster,Kuster,D,NH-2,22,-2.4,59.7,-37.6
+House,Joe Courtney,Courtney,D,CT-2,20.3,-2.9,58.4,-38.1
+House,Daniel T. Kildee,Kildee,D,MI-5,15.8,-4.2,55.4,-39.6
+House,Cheri Bustos,Bustos,D,IL-17,25.4,0.7,67.2,-41.7
+House,Peter A. DeFazio,DeFazio,D,OR-4,20.7,-0.1,65.4,-44.7
+House,Sean Patrick Maloney,S. Maloney,D,NY-18,23.7,1.9,69.9,-46.2
+House,Ron Kind,Kind,D,WI-3,25.4,4.5,75.3,-49.9
+House,Carol Shea-Porter,Shea-Porter,D,NH-1,19,1.6,70.4,-51.4
+House,David Loebsack,Loebsack,D,IA-2,22,4.1,74.5,-52.5
+House,Matt Cartwright,Cartwright,D,PA-17,22.4,10.1,84.2,-61.8
+House,Richard M. Nolan,Nolan,D,MN-8,20.3,15.6,89.5,-69.2
+House,Timothy J. Walz,Walz,D,MN-1,19.3,14.9,88.8,-69.5
